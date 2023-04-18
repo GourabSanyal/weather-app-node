@@ -4,7 +4,6 @@ const hbs = require("hbs");
 
 const app = express();
 
-const goeCode = require("./utils/geoCode");
 const forcast = require("./utils/forcast");
 const geoCode = require("./utils/geoCode");
 
