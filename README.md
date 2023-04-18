@@ -2,7 +2,7 @@
 
 To intialize and test it
 
-Pull it in your local
+Pull it in your local system
 
 initialise with `npm install` and `npm run start`
 
